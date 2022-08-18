@@ -6,4 +6,4 @@ plan:
 projects:
     project1:
         root: /projects/1
-        runner: techio/c-check-runner
+        runner: techio/c-check-runner:1.1.0-gcc-6.3
