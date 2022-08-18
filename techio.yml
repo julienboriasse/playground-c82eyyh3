@@ -6,4 +6,4 @@ plan:
 projects:
     project1:
         root: /projects/1
-        runner: python:3
+        runner: c-check-runner
