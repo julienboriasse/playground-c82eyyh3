@@ -7,4 +7,4 @@ projects:
     project1:
         root: /projects/1
         buildCommand: cmake-gcc-runner
-        runner: cmake-gcc-runner
+        runner: python:3  
