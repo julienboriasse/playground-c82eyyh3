@@ -7,4 +7,3 @@ projects:
     project1:
         root: /projects/1
         buildCommand: cmake-gcc-runner
-        runner:
