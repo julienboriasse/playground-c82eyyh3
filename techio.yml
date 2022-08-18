@@ -6,5 +6,5 @@ plan:
 projects:
     project1:
         root: /projects/1
-        buildCommand: cd /project/target && ./my-install-script.sh
-        runner: 
+        buildCommand: cmake-gcc-runner
+        runner:
