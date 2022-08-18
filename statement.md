@@ -11,6 +11,11 @@ int main() {
 
 ```
 
+# Coding exercise
+
+@[Affiche le nombre 42?]({"stubs": ["exercice1.c"], "command": "c-check-runner test_exercice1.c"})
+
+
 # Advanced usage
 
 If you want a more complex example (external libraries, viewers...), see the [official documentation](https://tech.io/playgrounds/408/tech-io-documentation).
