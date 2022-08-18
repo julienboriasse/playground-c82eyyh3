@@ -13,7 +13,7 @@ int main() {
 
 # Coding exercise
 
-@[Affiche le nombre 42]({"stubs": ["src/exercice1.c"], "command": "c-check-runner check_exercice1 Core"})
+@[Affiche le nombre 42]({"stubs": ["src/exercice1.c"], "command": "check_exercice1 Core"})
 
 
 # Advanced usage
